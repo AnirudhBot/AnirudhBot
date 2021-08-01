@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @AnirudhBot
+- 👋 Hi, I’m Anirudh
 - 👀 I’m interested in Web Development and Coding !
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Webd Open Source Projects
 - 📫 How to reach me : anirudh1304@gmail.com
 
 <!---
