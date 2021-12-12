@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Coder and Web developer from India</h3>
 <br>
 
-- 🌱 I’m currently learning **Node.js, Express.js and MongoDB**
+- 🌱 I’m currently learning **Java and MongoDB**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects** and **Web Dev internships**
 
-- 💬 Ask me about **HTML, CSS, JavaScript and Java**
+- 💬 Ask me about **HTML, CSS, JavaScript, Node.js and Express**
 
 - 📫 How to reach me - **anirudh1304@gmail.com**
 <br>
