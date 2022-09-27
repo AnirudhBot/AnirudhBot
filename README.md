@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Coder and Web developer from India</h3>
 <br>
 
-- 🌱 I’m currently learning **Java and React**
+- 🌱 I’m currently learning about **Databases and some DevOps**
 
-- 👯 I’m looking to collaborate on **Open Source Projects** and **Web Dev internships**
+- 👯 I’m looking to collaborate on **Open Source Projects** and **Developer roles**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.js and Express**
+- 💬 Ask me about **JavaScript, Node.js/Express, React and MongoDB**
 
 - 📫 How to reach me - **anirudh1304@gmail.com**
 <br>
