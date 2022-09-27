@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Coder and Web developer from India</h3>
 <br>
 
-- 🌱 I’m currently learning about **Databases and some DevOps**
+- 🌱 I’m currently learning about **Databases and DevOps**
 
-- 👯 I’m looking to collaborate on **Open Source Projects** and **Developer roles**
+- 👯 I’m looking to collaborate on **Open Source Projects** and also **Dev roles**
 
 - 💬 Ask me about **JavaScript, Node.js/Express, React and MongoDB**
 
