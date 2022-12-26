@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anirudh Sharma</h1>
-<h3 align="center">A passionate Coder and Web developer from India</h3>
+<h3 align="center">A B.tech undergraduate and passionate developer from India</h3>
 <br>
 
 - 🌱 I’m currently learning about **DevOps and WebAssembly**
